@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.randcodez</groupId>
-	<artifactId>spring-boot-login-exampl</artifactId>
+	<artifactId>spring-boot-login-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-login-exampl</name>
 	<description>Spring Boot Login example with Spring Security, JWT and MySQL - Rest API</description>
